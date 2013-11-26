@@ -1,0 +1,9 @@
+c:\users\justinde\documents\visual studio 2010\Projects\Oro2\Oro2\bin\Debug\Oro2.exe
+c:\users\justinde\documents\visual studio 2010\Projects\Oro2\Oro2\bin\Debug\Oro2.pdb
+c:\users\justinde\documents\visual studio 2010\Projects\Oro2\Oro2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\justinde\documents\visual studio 2010\Projects\Oro2\Oro2\obj\x86\Debug\Oro2.Form1.resources
+c:\users\justinde\documents\visual studio 2010\Projects\Oro2\Oro2\obj\x86\Debug\Oro2.Properties.Resources.resources
+c:\users\justinde\documents\visual studio 2010\Projects\Oro2\Oro2\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\justinde\documents\visual studio 2010\Projects\Oro2\Oro2\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\justinde\documents\visual studio 2010\Projects\Oro2\Oro2\obj\x86\Debug\Oro2.exe
+c:\users\justinde\documents\visual studio 2010\Projects\Oro2\Oro2\obj\x86\Debug\Oro2.pdb
